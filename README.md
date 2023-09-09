@@ -11,5 +11,10 @@ Aqui é onde será realizada a troca de textos com o ChatGPT. Utiliza-se a API d
 ### 4 - Sintetizando a Resposta do ChatGPT Como Voz (gTTS) 
 Por fim, usa-se o gTTS, biblioteca em Python que utiliza a API de Text-to-Speech do Google, sintetizando o texto em voz no idioma escolhido. Assim, a resposta do ChatGPT é entrege ao usuário por meio de voz. 
 <br><br><br><br>
+
+
+![ChatGPT Python](https://github.com/eriksensousa/DIO-Chatting-ChatGPT-With-Whisper-and-Python/assets/126014537/148a5372-5a8e-4a1d-bc84-341c46e3453f)
+
+
 > Desenvolvido no **Coding the Future**, da **DIO**.
 > [DIO_Project - Chatting with ChatGPT Using Whisper (OpenAI) and Python_08164635.pdf](https://github.com/eriksensousa/DIO-Chatting-ChatGPT-With-Whisper-and-Python/files/12564284/DIO_Project.-.Chatting.with.ChatGPT.Using.Whisper.OpenAI.and.Python_08164635.pdf)
