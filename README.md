@@ -1,4 +1,4 @@
-# Assistente_de_Voz_Multi_Idiomas_Com_Whisper_e_ChatGPT
+# Assistente de Voz Multi Idiomas com Whisper e ChatGPT
 Conversando Por Voz Com o ChatGPT Utilizando Whisper (OpenAI) e Python
 Sistema que combina as tecnologias de Speech-to-Text (voz para texto) e Text-to-Speech (texto para voz) para proporcionar uma conversa multi-idiomas por voz com o ChatGPT. 
 O código é desenvolvido em 4 etapas:
